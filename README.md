@@ -22,7 +22,7 @@ The parameters supported are:
 
 ### Example of basic usage
 
-```
+```js
 <iframe height="290" width="520" src="//external.yta.se/widgets/travel-time?origin=59.338900,18.060416">
 </iframe>
 <div>Restider presenteras tillsammans med <a href="https://yta.se">yta.se</a>.</div>
