@@ -24,6 +24,7 @@ The parameters supported are:
 ### Iframe parameters
 
 __allowfullscreen__: required to let the suer the possibility to have a full screen view of the map
+
 __frameborder="0"__: needed to remove borders around the iframe in some browser.
 
 ### Example of basic usage
